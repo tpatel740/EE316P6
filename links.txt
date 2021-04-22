@@ -1,1 +1,3 @@
 
+KB Scancode to Ascii Conversion example in C:
+    http://www.osdever.net/bkerndev/Docs/keyboard.htm
